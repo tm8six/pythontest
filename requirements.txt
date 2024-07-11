@@ -67,7 +67,7 @@ lxml==4.9.1
 Markdown==3.4.1
 mistune==0.8.3
 mock==1.0.1  # TODO: mock is now part of the Python standard library, available as unittest.mock in Python 3.3 onwards.
-mysqlclient=>2.1.1
+# mysqlclient=>2.1.1
 newrelic==8.5.0
 oauth2.3==1.5.211
 paramiko==2.11.0
